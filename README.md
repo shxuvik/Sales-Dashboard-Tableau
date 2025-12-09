@@ -3,7 +3,7 @@
 A modern and interactive Power BI dashboard designed to analyze **ATM operations, costs, revenue, and transaction performance** across multiple regions. This project showcases strong data analytics, visualization, and business intelligence skills.
 
 ## 📊 Dashboard Preview
-![ATM Dashboard](dash.jpg)
+![ATM Dashboard](https://github.com/shxuvik/Sales-Dashboard-Tableau/blob/68293e276927afece550ffdcb23974a8daf4127e/Images/download.png)
 
 ## 🚀 Project Overview
 The **ATM Transaction Dashboard** provides actionable insights into:
