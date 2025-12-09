@@ -4,6 +4,7 @@ This project presents a comprehensive **Sales & Customer Performance Dashboard**
 It includes insights on sales, profit, quantity, customer trends, and order behavior — all visualized through clean, interactive dashboards.
 
 ---
+![Sales Dashboard](https://github.com/shxuvik/Sales-Dashboard-Tableau/blob/68293e276927afece550ffdcb23974a8daf4127e/Images/download.png)
 
 ## 🚀 Project Overview
 
